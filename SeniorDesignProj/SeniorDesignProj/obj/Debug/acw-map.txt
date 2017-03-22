@@ -1,0 +1,4 @@
+SeniorDesignProj.MainActivity, SeniorDesignProj;md501c3aa5f32d08f5091874e2bcbeff98d.MainActivity
+SeniorDesignProj.MainActivity, SeniorDesignProj, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md501c3aa5f32d08f5091874e2bcbeff98d.MainActivity
+SeniorDesignProj.MainActivity;md501c3aa5f32d08f5091874e2bcbeff98d.MainActivity
+seniordesignproj.MainActivity;md501c3aa5f32d08f5091874e2bcbeff98d.MainActivity

@@ -17,5 +17,5 @@
         android:id="@+id/submitButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Send text to the CLoud!" />
+        android:text="Send text to the Cloud!" />
 </LinearLayout>
