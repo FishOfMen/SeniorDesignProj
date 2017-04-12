@@ -5,6 +5,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using System.Net.Http;
+using Newtonsoft.Json;
+using System.Text;
 
 namespace SeniorDesignProj
 {
@@ -43,6 +46,18 @@ namespace SeniorDesignProj
                 Toast.MakeText(this, "2", ToastLength.Short).Show();
                 Toast.MakeText(this, "1", ToastLength.Short).Show();
                 Toast.MakeText(this, "Missle launched at cloud", ToastLength.Short).Show();
+
+                using (var client = new HttpClient())
+                {
+                    var url = string.Format("https://zachproject.azurewebsites.net/api/GetText?code=b3kcEw65qT1lrSlWd9p1yHopfauecaYcdfeJHCGOqakb/r1fgQBOXw==&");
+
+                    var content = new StringContent("{name:'" + outputText + "'}", Encoding.UTF8, "application/json");
+
+                    var result = client.PostAsync(url, content).Result.EnsureSuccessStatusCode().Content.ReadAsStringAsync().Result;
+
+                    JsonConvert.DeserializeObject<string>(result);
+
+                }
             }
             else
             {

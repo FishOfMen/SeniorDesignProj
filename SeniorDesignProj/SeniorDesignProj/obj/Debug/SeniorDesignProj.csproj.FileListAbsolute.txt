@@ -35,5 +35,13 @@ C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignPro
 C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\android\assets\System.Numerics.dll.mdb
 C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\obj\Debug\SeniorDesignProj.dll.mdb
 C:\Users\Zack\Documents\GitHub\SeniorDesignProj\SeniorDesignProj\SeniorDesignProj\bin\Debug\SeniorDesignProj.dll.mdb
